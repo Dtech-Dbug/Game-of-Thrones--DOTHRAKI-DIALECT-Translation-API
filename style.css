@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&display=swap');
+/*font-family: 'Gravitas One', cursive;*/
+
+body{
+    padding: 0rem;
+    padding: 0rem;
+}
+
+header h1{
+    font-family: 'Gravitas One', cursive;
+    text-align: center;
+
+}
+
+.container{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+    background-image: url(/dothraki\ landscape.jpg);
+    background-size: 100% 100%;
+    color: white;
+}
+.box{
+    background-color: teal;
+    overflow: hidden;
+}
+#btn-translate{
+    transform: translateX(2rem);
+}
